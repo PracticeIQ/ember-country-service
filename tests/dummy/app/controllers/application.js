@@ -8,7 +8,10 @@ export default Ember.Controller.extend({
 
     let isoCode = countryData.getISOCodeForCountry("Australia");
 
+    let isoCodeUppercase = countryData.getISOCodeForCountry("iran", true);
+
     console.log("iso for Australia", isoCode);
+    console.log("iso for Iran uppercase", isoCodeUppercase);
 
     let diallingCode = countryData.getDiallingCodeForCountry("Lebanon");
 

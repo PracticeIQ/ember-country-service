@@ -1984,7 +1984,7 @@ export default Ember.Service.extend({
   }.property("countrySet"),
   getCountryByFuzzyName: function(fuzzyName) {
     let results = [];
-    let matchingCountry = this.get("countries").filter((country) => {
+    let matchingCountries = this.get("countries").filter((country) => {
       let matchExists = false;
       let possibleMatches = country.matches.split(" ");
       possibleMatches.forEach((match) => {
@@ -1992,7 +1992,7 @@ export default Ember.Service.extend({
       });
       return matchExists;
     });
-    return matchingCountry;
+    return matchingCountries;
   },
   getCountryByProperty: function(property, value) {
     let results = this.get("countries").filter((country) => {
@@ -2001,24 +2001,28 @@ export default Ember.Service.extend({
     if (Ember.isArray(results) && results.length > 0) return results.objectAt(0);
     return results;
   },
-  getISOCodeForCountry: function(name) {
-    var result = null;
-    this.get("countries").forEach(function(country) {
-      if (country["real-value"].toLowerCase() === name.toLowerCase()) {
-        result = country;
-      }
-    });
-    if (result) return result.code;
+  getISOCodeForCountry: function(name, uppercase) {
+    let result = null;
+    let fuzzyMatch = this.getCountryByFuzzyName(name);
+    if(!fuzzyMatch) return;
+
+    fuzzyMatch = fuzzyMatch.objectAt(0);
+    result = fuzzyMatch.code;
+
+    if(uppercase) {
+      result = result.toUpperCase();
+    }
+    
     return result;
   },
   getDiallingCodeForCountry: function(name) {
-    var result = null;
-    this.get("countries").forEach(function(country) {
-      if (country["real-value"].toLowerCase() === name.toLowerCase()) {
-        result = country;
-      }
-    });
-    if (result) return result.phoneCode;
+    let result = null;
+    let fuzzyMatch = this.getCountryByFuzzyName(name);
+    if(!fuzzyMatch) return;
+
+    fuzzyMatch = fuzzyMatch.objectAt(0);
+    result = fuzzyMatch.phoneCode;
+
     return result;
   },
   getCountryNameByISO: function(isoCode) {
