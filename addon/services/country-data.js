@@ -5,7 +5,7 @@ let countrySet = [{
   "phoneCode": "93",
   "real-value": "Afghanistan",
   "label": "Afghanistan",
-  "matches": "Afghanistan AF افغانستان",
+  "matches": "93 Afghanistan AF افغانستان",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -13,7 +13,7 @@ let countrySet = [{
   "phoneCode": "355",
   "real-value": "Albania",
   "label": "Albania",
-  "matches": "Albania AL",
+  "matches": "355 Albania AL",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -21,7 +21,7 @@ let countrySet = [{
   "phoneCode": "213",
   "real-value": "Algeria",
   "label": "Algeria",
-  "matches": "Algeria DZ الجزائر",
+  "matches": "213 Algeria DZ الجزائر",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -29,7 +29,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "American Samoa",
   "label": "American Samoa",
-  "matches": "American Samoa AS",
+  "matches": "1 American Samoa AS",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -37,7 +37,7 @@ let countrySet = [{
   "phoneCode": "376",
   "real-value": "Andorra",
   "label": "Andorra",
-  "matches": "Andorra AD",
+  "matches": "376 Andorra AD",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -45,7 +45,7 @@ let countrySet = [{
   "phoneCode": "244",
   "real-value": "Angola",
   "label": "Angola",
-  "matches": "Angola AO",
+  "matches": "244 Angola AO",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -53,7 +53,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Anguilla",
   "label": "Anguilla",
-  "matches": "Anguilla AI",
+  "matches": "1 Anguilla AI",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -61,7 +61,7 @@ let countrySet = [{
   "phoneCode": "672",
   "real-value": "Antarctica",
   "label": "Antarctica",
-  "matches": "Antarctica AQ",
+  "matches": "672 Antarctica AQ",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -69,7 +69,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Antigua And Barbuda",
   "label": "Antigua And Barbuda",
-  "matches": "Antigua And Barbuda AG",
+  "matches": "1 Antigua And Barbuda AG",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -77,7 +77,7 @@ let countrySet = [{
   "phoneCode": "54",
   "real-value": "Argentina",
   "label": "Argentina",
-  "matches": "Argentina AR",
+  "matches": "54 Argentina AR",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -85,7 +85,7 @@ let countrySet = [{
   "phoneCode": "374",
   "real-value": "Armenia",
   "label": "Armenia",
-  "matches": "Armenia AM Հայաստան",
+  "matches": "374 Armenia AM Հայաստան",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -93,7 +93,7 @@ let countrySet = [{
   "phoneCode": "297",
   "real-value": "Aruba",
   "label": "Aruba",
-  "matches": "Aruba AW",
+  "matches": "297 Aruba AW",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -101,7 +101,7 @@ let countrySet = [{
   "phoneCode": "61",
   "real-value": "Australia",
   "label": "Australia",
-  "matches": "Australia AU",
+  "matches": "61 Australia AU",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -109,7 +109,7 @@ let countrySet = [{
   "phoneCode": "43",
   "real-value": "Austria",
   "label": "Austria",
-  "matches": "Austria AT Österreich Osterreich Oesterreich ",
+  "matches": "43 Austria AT Österreich Osterreich Oesterreich ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -117,7 +117,7 @@ let countrySet = [{
   "phoneCode": "994",
   "real-value": "Azerbaijan",
   "label": "Azerbaijan",
-  "matches": "Azerbaijan AZ",
+  "matches": "994 Azerbaijan AZ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -125,7 +125,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Bahamas",
   "label": "Bahamas",
-  "matches": "Bahamas BS",
+  "matches": "1 Bahamas BS",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -133,7 +133,7 @@ let countrySet = [{
   "phoneCode": "973",
   "real-value": "Bahrain",
   "label": "Bahrain",
-  "matches": "Bahrain BH البحرين",
+  "matches": "973 Bahrain BH البحرين",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -141,7 +141,7 @@ let countrySet = [{
   "phoneCode": "880",
   "real-value": "Bangladesh",
   "label": "Bangladesh",
-  "matches": "Bangladesh BD বাংলাদেশ",
+  "matches": "880 Bangladesh BD বাংলাদেশ",
   "relevancy-score": 0,
   "relevancy-score-booster": 2
 }, {
@@ -149,7 +149,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Barbados",
   "label": "Barbados",
-  "matches": "Barbados BB",
+  "matches": "1 Barbados BB",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -157,7 +157,7 @@ let countrySet = [{
   "phoneCode": "375",
   "real-value": "Belarus",
   "label": "Belarus",
-  "matches": "Belarus BY Беларусь",
+  "matches": "375 Belarus BY Беларусь",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -165,7 +165,7 @@ let countrySet = [{
   "phoneCode": "32",
   "real-value": "Belgium",
   "label": "Belgium",
-  "matches": "Belgium BE België Belgie Belgien Belgique",
+  "matches": "32 Belgium BE België Belgie Belgien Belgique",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -173,7 +173,7 @@ let countrySet = [{
   "phoneCode": "501",
   "real-value": "Belize",
   "label": "Belize",
-  "matches": "Belize BZ",
+  "matches": "501 Belize BZ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -181,7 +181,7 @@ let countrySet = [{
   "phoneCode": "229",
   "real-value": "Benin",
   "label": "Benin",
-  "matches": "Benin BJ",
+  "matches": "229 Benin BJ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -189,7 +189,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Bermuda",
   "label": "Bermuda",
-  "matches": "Bermuda BM",
+  "matches": "1 Bermuda BM",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -197,7 +197,7 @@ let countrySet = [{
   "phoneCode": "975",
   "real-value": "Bhutan",
   "label": "Bhutan",
-  "matches": "Bhutan BT भूटान",
+  "matches": "975 Bhutan BT भूटान",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -205,7 +205,7 @@ let countrySet = [{
   "phoneCode": "591",
   "real-value": "Bolivia",
   "label": "Bolivia",
-  "matches": "Bolivia BO",
+  "matches": "591 Bolivia BO",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -213,7 +213,7 @@ let countrySet = [{
   "phoneCode": "599",
   "real-value": "Bonaire, Sint Eustatius and Saba",
   "label": "Bonaire, Sint Eustatius and Saba",
-  "matches": "Bonaire, Sint Eustatius and Saba BQ",
+  "matches": "599 Bonaire, Sint Eustatius and Saba BQ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -221,7 +221,7 @@ let countrySet = [{
   "phoneCode": "387",
   "real-value": "Bosnia and Herzegovina",
   "label": "Bosnia and Herzegovina",
-  "matches": "Bosnia and Herzegovina BA BiH Bosna i Hercegovina Босна и Херцеговина",
+  "matches": "387 Bosnia and Herzegovina BA BiH Bosna i Hercegovina Босна и Херцеговина",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -229,7 +229,7 @@ let countrySet = [{
   "phoneCode": "267",
   "real-value": "Botswana",
   "label": "Botswana",
-  "matches": "Botswana BW",
+  "matches": "267 Botswana BW",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -237,7 +237,7 @@ let countrySet = [{
   "phoneCode": "55",
   "real-value": "Brazil",
   "label": "Brazil",
-  "matches": "Brazil BR Brasil",
+  "matches": "55 Brazil BR Brasil",
   "relevancy-score": 0,
   "relevancy-score-booster": 2
 }, {
@@ -245,7 +245,7 @@ let countrySet = [{
   "phoneCode": "246",
   "real-value": "British Indian Ocean Territory",
   "label": "British Indian Ocean Territory",
-  "matches": "British Indian Ocean Territory IO",
+  "matches": "246 British Indian Ocean Territory IO",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -253,7 +253,7 @@ let countrySet = [{
   "phoneCode": "673",
   "real-value": "Brunei Darussalam",
   "label": "Brunei Darussalam",
-  "matches": "Brunei Darussalam BN",
+  "matches": "673 Brunei Darussalam BN",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -261,7 +261,7 @@ let countrySet = [{
   "phoneCode": "359",
   "real-value": "Bulgaria",
   "label": "Bulgaria",
-  "matches": "Bulgaria BG България",
+  "matches": "359 Bulgaria BG България",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -269,7 +269,7 @@ let countrySet = [{
   "phoneCode": "226",
   "real-value": "Burkina Faso",
   "label": "Burkina Faso",
-  "matches": "Burkina Faso BF",
+  "matches": "226 Burkina Faso BF",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -277,7 +277,7 @@ let countrySet = [{
   "phoneCode": "257",
   "real-value": "Burundi",
   "label": "Burundi",
-  "matches": "Burundi BI",
+  "matches": "257 Burundi BI",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -285,7 +285,7 @@ let countrySet = [{
   "phoneCode": "855",
   "real-value": "Cambodia",
   "label": "Cambodia",
-  "matches": "Cambodia KH កម្ពុជា",
+  "matches": "855 Cambodia KH កម្ពុជា",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -293,7 +293,7 @@ let countrySet = [{
   "phoneCode": "237",
   "real-value": "Cameroon",
   "label": "Cameroon",
-  "matches": "Cameroon CM",
+  "matches": "237 Cameroon CM",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -301,7 +301,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Canada",
   "label": "Canada",
-  "matches": "Canada CA",
+  "matches": "1 Canada CA",
   "relevancy-score": 0,
   "relevancy-score-booster": 2
 }, {
@@ -309,15 +309,15 @@ let countrySet = [{
   "phoneCode": "238",
   "real-value": "Cape Verde",
   "label": "Cape Verde",
-  "matches": "Cape Verde CV Cabo",
+  "matches": "238 Cape Verde CV Cabo",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
-  "code": "1",
-  "phoneCode": "ky",
+  "code": "ky",
+  "phoneCode": "1",
   "real-value": "Cayman Islands",
   "label": "Cayman Islands",
-  "matches": "Cayman Islands KY",
+  "matches": "1 Cayman Islands KY",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -325,7 +325,7 @@ let countrySet = [{
   "phoneCode": "236",
   "real-value": "Central African Republic",
   "label": "Central African Republic",
-  "matches": "Central African Republic CF",
+  "matches": "236 Central African Republic CF",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -333,7 +333,7 @@ let countrySet = [{
   "phoneCode": "235",
   "real-value": "Chad",
   "label": "Chad",
-  "matches": "Chad TD تشاد‎ Tchad",
+  "matches": "235 Chad TD تشاد‎ Tchad",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -341,7 +341,7 @@ let countrySet = [{
   "phoneCode": "56",
   "real-value": "Chile",
   "label": "Chile",
-  "matches": "Chile CL",
+  "matches": "56 Chile CL",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -349,7 +349,7 @@ let countrySet = [{
   "phoneCode": "886",
   "real-value": "China",
   "label": "China",
-  "matches": "China CN Zhongguo Zhonghua Peoples Republic 中国/中华",
+  "matches": "886 China CN Zhongguo Zhonghua Peoples Republic 中国/中华",
   "relevancy-score": 0,
   "relevancy-score-booster": 3.5
 }, {
@@ -357,7 +357,7 @@ let countrySet = [{
   "phoneCode": "61",
   "real-value": "Christmas Island",
   "label": "Christmas Island",
-  "matches": "Christmas Island CX",
+  "matches": "61 Christmas Island CX",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -365,7 +365,7 @@ let countrySet = [{
   "phoneCode": "61",
   "real-value": "Cocos (Keeling) Islands",
   "label": "Cocos (Keeling) Islands",
-  "matches": "Cocos (Keeling) Islands CC",
+  "matches": "61 Cocos (Keeling) Islands CC",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -373,7 +373,7 @@ let countrySet = [{
   "phoneCode": "57",
   "real-value": "Colombia",
   "label": "Colombia",
-  "matches": "Colombia CO",
+  "matches": "57 Colombia CO",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -381,7 +381,7 @@ let countrySet = [{
   "phoneCode": "269",
   "real-value": "Comoros",
   "label": "Comoros",
-  "matches": "Comoros KM جزر القمر",
+  "matches": "269 Comoros KM جزر القمر",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -389,7 +389,7 @@ let countrySet = [{
   "phoneCode": "243",
   "real-value": "Congo",
   "label": "Congo",
-  "matches": "Congo CG",
+  "matches": "243 Congo CG",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -397,7 +397,7 @@ let countrySet = [{
   "phoneCode": "243",
   "real-value": "Congo, the Democratic Republic of the",
   "label": "Congo, the Democratic Republic of the",
-  "matches": "Congo, the Democratic Republic of the CD Congo-Brazzaville Repubilika ya Kongo",
+  "matches": "243 Congo, the Democratic Republic of the CD Congo-Brazzaville Repubilika ya Kongo",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -405,7 +405,7 @@ let countrySet = [{
   "phoneCode": "682",
   "real-value": "Cook Islands",
   "label": "Cook Islands",
-  "matches": "Cook Islands CK",
+  "matches": "682 Cook Islands CK",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -413,7 +413,7 @@ let countrySet = [{
   "phoneCode": "506",
   "real-value": "Costa Rica",
   "label": "Costa Rica",
-  "matches": "Costa Rica CR",
+  "matches": "506 Costa Rica CR",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -421,7 +421,7 @@ let countrySet = [{
   "phoneCode": "385",
   "real-value": "Croatia",
   "label": "Croatia",
-  "matches": "Croatia HR Hrvatska",
+  "matches": "385 Croatia HR Hrvatska",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -429,7 +429,7 @@ let countrySet = [{
   "phoneCode": "53",
   "real-value": "Cuba",
   "label": "Cuba",
-  "matches": "Cuba CU",
+  "matches": "53 Cuba CU",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -437,7 +437,7 @@ let countrySet = [{
   "phoneCode": "599",
   "real-value": "Curaçao",
   "label": "Curaçao",
-  "matches": "Curaçao CW Curacao",
+  "matches": "599 Curaçao CW Curacao",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -445,7 +445,7 @@ let countrySet = [{
   "phoneCode": "357",
   "real-value": "Cyprus",
   "label": "Cyprus",
-  "matches": "Cyprus CY Κύπρος Kýpros Kıbrıs",
+  "matches": "357 Cyprus CY Κύπρος Kýpros Kıbrıs",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -453,7 +453,7 @@ let countrySet = [{
   "phoneCode": "420",
   "real-value": "Czech Republic",
   "label": "Czech Republic",
-  "matches": "Czech Republic CZ Česká Ceska",
+  "matches": "420 Czech Republic CZ Česká Ceska",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -461,7 +461,7 @@ let countrySet = [{
   "phoneCode": "225",
   "real-value": "Côte d'Ivoire",
   "label": "Côte d'Ivoire",
-  "matches": "Côte d'Ivoire CI Cote dIvoire",
+  "matches": "225 Côte d'Ivoire CI Cote dIvoire",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -469,7 +469,7 @@ let countrySet = [{
   "phoneCode": "45",
   "real-value": "Denmark",
   "label": "Denmark",
-  "matches": "Denmark DK Danmark",
+  "matches": "45 Denmark DK Danmark",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -477,7 +477,7 @@ let countrySet = [{
   "phoneCode": "253",
   "real-value": "Djibouti",
   "label": "Djibouti",
-  "matches": "Djibouti DJ جيبوتي‎ Jabuuti Gabuuti",
+  "matches": "253 Djibouti DJ جيبوتي‎ Jabuuti Gabuuti",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -485,7 +485,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Dominica",
   "label": "Dominica",
-  "matches": "Dominica DM Dominique",
+  "matches": "1 Dominica DM Dominique",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -493,7 +493,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Dominican Republic",
   "label": "Dominican Republic",
-  "matches": "Dominican Republic DO",
+  "matches": "1 Dominican Republic DO",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -501,7 +501,7 @@ let countrySet = [{
   "phoneCode": "593",
   "real-value": "Ecuador",
   "label": "Ecuador",
-  "matches": "Ecuador EC",
+  "matches": "593 Ecuador EC",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -509,7 +509,7 @@ let countrySet = [{
   "phoneCode": "20",
   "real-value": "Egypt",
   "label": "Egypt",
-  "matches": "Egypt EG",
+  "matches": "20 Egypt EG",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -517,7 +517,7 @@ let countrySet = [{
   "phoneCode": "503",
   "real-value": "El Salvador",
   "label": "El Salvador",
-  "matches": "El Salvador SV",
+  "matches": "503 El Salvador SV",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -525,7 +525,7 @@ let countrySet = [{
   "phoneCode": "240",
   "real-value": "Equatorial Guinea",
   "label": "Equatorial Guinea",
-  "matches": "Equatorial Guinea GQ",
+  "matches": "240 Equatorial Guinea GQ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -533,7 +533,7 @@ let countrySet = [{
   "phoneCode": "291",
   "real-value": "Eritrea",
   "label": "Eritrea",
-  "matches": "Eritrea ER إرتريا ኤርትራ",
+  "matches": "291 Eritrea ER إرتريا ኤርትራ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -541,7 +541,7 @@ let countrySet = [{
   "phoneCode": "372",
   "real-value": "Estonia",
   "label": "Estonia",
-  "matches": "Estonia EE Eesti",
+  "matches": "372 Estonia EE Eesti",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -549,7 +549,7 @@ let countrySet = [{
   "phoneCode": "251",
   "real-value": "Ethiopia",
   "label": "Ethiopia",
-  "matches": "Ethiopia ET ኢትዮጵያ",
+  "matches": "251 Ethiopia ET ኢትዮጵያ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -557,7 +557,7 @@ let countrySet = [{
   "phoneCode": "500",
   "real-value": "Falkland Islands (Malvinas)",
   "label": "Falkland Islands (Malvinas)",
-  "matches": "Falkland Islands (Malvinas) FK",
+  "matches": "500 Falkland Islands (Malvinas) FK",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -565,7 +565,7 @@ let countrySet = [{
   "phoneCode": "298",
   "real-value": "Faroe Islands",
   "label": "Faroe Islands",
-  "matches": "Faroe Islands FO Føroyar Færøerne",
+  "matches": "298 Faroe Islands FO Føroyar Færøerne",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -573,7 +573,7 @@ let countrySet = [{
   "phoneCode": "679",
   "real-value": "Fiji",
   "label": "Fiji",
-  "matches": "Fiji FJ Viti फ़िजी",
+  "matches": "679 Fiji FJ Viti फ़िजी",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -581,7 +581,7 @@ let countrySet = [{
   "phoneCode": "358",
   "real-value": "Finland",
   "label": "Finland",
-  "matches": "Finland FI Suomi",
+  "matches": "358 Finland FI Suomi",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -589,7 +589,7 @@ let countrySet = [{
   "phoneCode": "33",
   "real-value": "France",
   "label": "France",
-  "matches": "France FR République française",
+  "matches": "33 France FR République française",
   "relevancy-score": 0,
   "relevancy-score-booster": 2.5
 }, {
@@ -597,7 +597,7 @@ let countrySet = [{
   "phoneCode": "594",
   "real-value": "French Guiana",
   "label": "French Guiana",
-  "matches": "French Guiana GF",
+  "matches": "594 French Guiana GF",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -605,7 +605,7 @@ let countrySet = [{
   "phoneCode": "689",
   "real-value": "French Polynesia",
   "label": "French Polynesia",
-  "matches": "French Polynesia PF Polynésie française",
+  "matches": "689 French Polynesia PF Polynésie française",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -613,7 +613,7 @@ let countrySet = [{
   "phoneCode": "262",
   "real-value": "French Southern Territories",
   "label": "French Southern Territories",
-  "matches": "French Southern Territories TF",
+  "matches": "262 French Southern Territories TF",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -621,7 +621,7 @@ let countrySet = [{
   "phoneCode": "241",
   "real-value": "Gabon",
   "label": "Gabon",
-  "matches": "Gabon GA République Gabonaise",
+  "matches": "241 Gabon GA République Gabonaise",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -629,7 +629,7 @@ let countrySet = [{
   "phoneCode": "220",
   "real-value": "Gambia",
   "label": "Gambia",
-  "matches": "Gambia GM",
+  "matches": "220 Gambia GM",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -637,7 +637,7 @@ let countrySet = [{
   "phoneCode": "995",
   "real-value": "Georgia",
   "label": "Georgia",
-  "matches": "Georgia GE საქართველო",
+  "matches": "995 Georgia GE საქართველო",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -645,7 +645,7 @@ let countrySet = [{
   "phoneCode": "49",
   "real-value": "Germany",
   "label": "Germany",
-  "matches": "Germany DE Bundesrepublik Deutschland",
+  "matches": "49 Germany DE Bundesrepublik Deutschland",
   "relevancy-score": 0,
   "relevancy-score-booster": 3
 }, {
@@ -653,7 +653,7 @@ let countrySet = [{
   "phoneCode": "233",
   "real-value": "Ghana",
   "label": "Ghana",
-  "matches": "Ghana GH",
+  "matches": "233 Ghana GH",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -661,7 +661,7 @@ let countrySet = [{
   "phoneCode": "350",
   "real-value": "Gibraltar",
   "label": "Gibraltar",
-  "matches": "Gibraltar GI",
+  "matches": "350 Gibraltar GI",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -669,7 +669,7 @@ let countrySet = [{
   "phoneCode": "30",
   "real-value": "Greece",
   "label": "Greece",
-  "matches": "Greece GR Ελλάδα",
+  "matches": "30 Greece GR Ελλάδα",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -677,7 +677,7 @@ let countrySet = [{
   "phoneCode": "299",
   "real-value": "Greenland",
   "label": "Greenland",
-  "matches": "Greenland GL grønland",
+  "matches": "299 Greenland GL grønland",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -685,7 +685,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Grenada",
   "label": "Grenada",
-  "matches": "Grenada GD",
+  "matches": "1 Grenada GD",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -693,7 +693,7 @@ let countrySet = [{
   "phoneCode": "590",
   "real-value": "Guadeloupe",
   "label": "Guadeloupe",
-  "matches": "Guadeloupe GP",
+  "matches": "590 Guadeloupe GP",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -701,7 +701,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Guam",
   "label": "Guam",
-  "matches": "Guam GU",
+  "matches": "1 Guam GU",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -709,7 +709,7 @@ let countrySet = [{
   "phoneCode": "502",
   "real-value": "Guatemala",
   "label": "Guatemala",
-  "matches": "Guatemala GT",
+  "matches": "502 Guatemala GT",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -717,7 +717,7 @@ let countrySet = [{
   "phoneCode": "44",
   "real-value": "Guernsey",
   "label": "Guernsey",
-  "matches": "Guernsey GG",
+  "matches": "44 Guernsey GG",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -725,7 +725,7 @@ let countrySet = [{
   "phoneCode": "675",
   "real-value": "Guinea",
   "label": "Guinea",
-  "matches": "Guinea GN",
+  "matches": "675 Guinea GN",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -733,7 +733,7 @@ let countrySet = [{
   "phoneCode": "245",
   "real-value": "Guinea-Bissau",
   "label": "Guinea-Bissau",
-  "matches": "Guinea-Bissau GW",
+  "matches": "245 Guinea-Bissau GW",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -741,7 +741,7 @@ let countrySet = [{
   "phoneCode": "592",
   "real-value": "Guyana",
   "label": "Guyana",
-  "matches": "Guyana GY",
+  "matches": "592 Guyana GY",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -749,7 +749,7 @@ let countrySet = [{
   "phoneCode": "509",
   "real-value": "Haiti",
   "label": "Haiti",
-  "matches": "Haiti HT",
+  "matches": "509 Haiti HT",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -757,7 +757,7 @@ let countrySet = [{
   "phoneCode": "39",
   "real-value": "Holy See (Vatican City State)",
   "label": "Holy See (Vatican City State)",
-  "matches": "Holy See (Vatican City State) VA",
+  "matches": "39 Holy See (Vatican City State) VA",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -765,7 +765,7 @@ let countrySet = [{
   "phoneCode": "504",
   "real-value": "Honduras",
   "label": "Honduras",
-  "matches": "Honduras HN",
+  "matches": "504 Honduras HN",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -773,7 +773,7 @@ let countrySet = [{
   "phoneCode": "852",
   "real-value": "Hong Kong",
   "label": "Hong Kong",
-  "matches": "Hong Kong HK 香港",
+  "matches": "852 Hong Kong HK 香港",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -781,7 +781,7 @@ let countrySet = [{
   "phoneCode": "36",
   "real-value": "Hungary",
   "label": "Hungary",
-  "matches": "Hungary HU Magyarország",
+  "matches": "36 Hungary HU Magyarország",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -789,7 +789,7 @@ let countrySet = [{
   "phoneCode": "354",
   "real-value": "Iceland",
   "label": "Iceland",
-  "matches": "Iceland IS Island",
+  "matches": "354 Iceland IS Island",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -797,7 +797,7 @@ let countrySet = [{
   "phoneCode": "91",
   "real-value": "India",
   "label": "India",
-  "matches": "India IN भारत गणराज्य Hindustan",
+  "matches": "91 India IN भारत गणराज्य Hindustan",
   "relevancy-score": 0,
   "relevancy-score-booster": 3
 }, {
@@ -805,7 +805,7 @@ let countrySet = [{
   "phoneCode": "62",
   "real-value": "Indonesia",
   "label": "Indonesia",
-  "matches": "Indonesia ID",
+  "matches": "62 Indonesia ID",
   "relevancy-score": 0,
   "relevancy-score-booster": 2
 }, {
@@ -813,7 +813,7 @@ let countrySet = [{
   "phoneCode": "98",
   "real-value": "Iran, Islamic Republic of",
   "label": "Iran, Islamic Republic of",
-  "matches": "Iran, Islamic Republic of IR ایران",
+  "matches": "98 Iran, Islamic Republic of IR ایران",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -821,7 +821,7 @@ let countrySet = [{
   "phoneCode": "964",
   "real-value": "Iraq",
   "label": "Iraq",
-  "matches": "Iraq IQ العراق‎",
+  "matches": "964 Iraq IQ العراق‎",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -829,7 +829,7 @@ let countrySet = [{
   "phoneCode": "353",
   "real-value": "Ireland",
   "label": "Ireland",
-  "matches": "Ireland IE Éire",
+  "matches": "353 Ireland IE Éire",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.2
 }, {
@@ -837,7 +837,7 @@ let countrySet = [{
   "phoneCode": "44",
   "real-value": "Isle of Man",
   "label": "Isle of Man",
-  "matches": "Isle of Man IM",
+  "matches": "44 Isle of Man IM",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -845,7 +845,7 @@ let countrySet = [{
   "phoneCode": "972",
   "real-value": "Israel",
   "label": "Israel",
-  "matches": "Israel IL إسرائيل ישראל",
+  "matches": "972 Israel IL إسرائيل ישראל",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -853,7 +853,7 @@ let countrySet = [{
   "phoneCode": "39",
   "real-value": "Italy",
   "label": "Italy",
-  "matches": "Italy IT Italia",
+  "matches": "39 Italy IT Italia",
   "relevancy-score": 0,
   "relevancy-score-booster": 2
 }, {
@@ -861,7 +861,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Jamaica",
   "label": "Jamaica",
-  "matches": "Jamaica JM",
+  "matches": "1 Jamaica JM",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -869,7 +869,7 @@ let countrySet = [{
   "phoneCode": "81",
   "real-value": "Japan",
   "label": "Japan",
-  "matches": "Japan JP Nippon Nihon 日本",
+  "matches": "81 Japan JP Nippon Nihon 日本",
   "relevancy-score": 0,
   "relevancy-score-booster": 2.5
 }, {
@@ -877,7 +877,7 @@ let countrySet = [{
   "phoneCode": "44",
   "real-value": "Jersey",
   "label": "Jersey",
-  "matches": "Jersey JE",
+  "matches": "44 Jersey JE",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -885,7 +885,7 @@ let countrySet = [{
   "phoneCode": "962",
   "real-value": "Jordan",
   "label": "Jordan",
-  "matches": "Jordan JO الأردن",
+  "matches": "962 Jordan JO الأردن",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -893,7 +893,7 @@ let countrySet = [{
   "phoneCode": "7",
   "real-value": "Kazakhstan",
   "label": "Kazakhstan",
-  "matches": "Kazakhstan KZ Қазақстан Казахстан",
+  "matches": "7 Kazakhstan KZ Қазақстан Казахстан",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -901,7 +901,7 @@ let countrySet = [{
   "phoneCode": "254",
   "real-value": "Kenya",
   "label": "Kenya",
-  "matches": "Kenya KE",
+  "matches": "254 Kenya KE",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -909,7 +909,7 @@ let countrySet = [{
   "phoneCode": "686",
   "real-value": "Kiribati",
   "label": "Kiribati",
-  "matches": "Kiribati KI",
+  "matches": "686 Kiribati KI",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -917,7 +917,7 @@ let countrySet = [{
   "phoneCode": "850",
   "real-value": "Korea, Democratic People's Republic of",
   "label": "Korea, Democratic People's Republic of",
-  "matches": "Korea, Democratic People's Republic of KP North Korea",
+  "matches": "850 Korea, Democratic People's Republic of KP North Korea",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -925,7 +925,7 @@ let countrySet = [{
   "phoneCode": "82",
   "real-value": "Korea, Republic of",
   "label": "Korea, Republic of",
-  "matches": "Korea, Republic of KR South Korea",
+  "matches": "82 Korea, Republic of KR South Korea",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -933,7 +933,7 @@ let countrySet = [{
   "phoneCode": "965",
   "real-value": "Kuwait",
   "label": "Kuwait",
-  "matches": "Kuwait KW الكويت",
+  "matches": "965 Kuwait KW الكويت",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -941,7 +941,7 @@ let countrySet = [{
   "phoneCode": "996",
   "real-value": "Kyrgyzstan",
   "label": "Kyrgyzstan",
-  "matches": "Kyrgyzstan KG Кыргызстан",
+  "matches": "996 Kyrgyzstan KG Кыргызстан",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -949,7 +949,7 @@ let countrySet = [{
   "phoneCode": "856",
   "real-value": "Lao People's Democratic Republic",
   "label": "Lao People's Democratic Republic",
-  "matches": "Lao People's Democratic Republic LA",
+  "matches": "856 Lao People's Democratic Republic LA",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -957,7 +957,7 @@ let countrySet = [{
   "phoneCode": "371",
   "real-value": "Latvia",
   "label": "Latvia",
-  "matches": "Latvia LV Latvija",
+  "matches": "371 Latvia LV Latvija",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -965,7 +965,7 @@ let countrySet = [{
   "phoneCode": "961",
   "real-value": "Lebanon",
   "label": "Lebanon",
-  "matches": "Lebanon LB لبنان",
+  "matches": "961 Lebanon LB لبنان",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -973,7 +973,7 @@ let countrySet = [{
   "phoneCode": "266",
   "real-value": "Lesotho",
   "label": "Lesotho",
-  "matches": "Lesotho LS",
+  "matches": "266 Lesotho LS",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -981,7 +981,7 @@ let countrySet = [{
   "phoneCode": "231",
   "real-value": "Liberia",
   "label": "Liberia",
-  "matches": "Liberia LR",
+  "matches": "231 Liberia LR",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -989,7 +989,7 @@ let countrySet = [{
   "phoneCode": "218",
   "real-value": "Libyan Arab Jamahiriya",
   "label": "Libyan Arab Jamahiriya",
-  "matches": "Libyan Arab Jamahiriya LY ليبيا",
+  "matches": "218 Libyan Arab Jamahiriya LY ليبيا",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -997,7 +997,7 @@ let countrySet = [{
   "phoneCode": "423",
   "real-value": "Liechtenstein",
   "label": "Liechtenstein",
-  "matches": "Liechtenstein LI",
+  "matches": "423 Liechtenstein LI",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1005,7 +1005,7 @@ let countrySet = [{
   "phoneCode": "370",
   "real-value": "Lithuania",
   "label": "Lithuania",
-  "matches": "Lithuania LT Lietuva",
+  "matches": "370 Lithuania LT Lietuva",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1013,7 +1013,7 @@ let countrySet = [{
   "phoneCode": "352",
   "real-value": "Luxembourg",
   "label": "Luxembourg",
-  "matches": "Luxembourg LU",
+  "matches": "352 Luxembourg LU",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1021,7 +1021,7 @@ let countrySet = [{
   "phoneCode": "853",
   "real-value": "Macao",
   "label": "Macao",
-  "matches": "Macao MO",
+  "matches": "853 Macao MO",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1029,7 +1029,7 @@ let countrySet = [{
   "phoneCode": "389",
   "real-value": "Macedonia, The Former Yugoslav Republic Of",
   "label": "Macedonia, The Former Yugoslav Republic Of",
-  "matches": "Macedonia, The Former Yugoslav Republic Of MK Македонија",
+  "matches": "389 Macedonia, The Former Yugoslav Republic Of MK Македонија",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1037,7 +1037,7 @@ let countrySet = [{
   "phoneCode": "261",
   "real-value": "Madagascar",
   "label": "Madagascar",
-  "matches": "Madagascar MG Madagasikara",
+  "matches": "261 Madagascar MG Madagasikara",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1045,7 +1045,7 @@ let countrySet = [{
   "phoneCode": "265",
   "real-value": "Malawi",
   "label": "Malawi",
-  "matches": "Malawi MW",
+  "matches": "265 Malawi MW",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1053,7 +1053,7 @@ let countrySet = [{
   "phoneCode": "60",
   "real-value": "Malaysia",
   "label": "Malaysia",
-  "matches": "Malaysia MY",
+  "matches": "60 Malaysia MY",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1061,7 +1061,7 @@ let countrySet = [{
   "phoneCode": "960",
   "real-value": "Maldives",
   "label": "Maldives",
-  "matches": "Maldives MV",
+  "matches": "960 Maldives MV",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1069,7 +1069,7 @@ let countrySet = [{
   "phoneCode": "252",
   "real-value": "Mali",
   "label": "Mali",
-  "matches": "Mali ML",
+  "matches": "252 Mali ML",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1077,7 +1077,7 @@ let countrySet = [{
   "phoneCode": "356",
   "real-value": "Malta",
   "label": "Malta",
-  "matches": "Malta MT",
+  "matches": "356 Malta MT",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1085,7 +1085,7 @@ let countrySet = [{
   "phoneCode": "692",
   "real-value": "Marshall Islands",
   "label": "Marshall Islands",
-  "matches": "Marshall Islands MH",
+  "matches": "692 Marshall Islands MH",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1093,7 +1093,7 @@ let countrySet = [{
   "phoneCode": "596",
   "real-value": "Martinique",
   "label": "Martinique",
-  "matches": "Martinique MQ",
+  "matches": "596 Martinique MQ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1101,7 +1101,7 @@ let countrySet = [{
   "phoneCode": "222",
   "real-value": "Mauritania",
   "label": "Mauritania",
-  "matches": "Mauritania MR الموريتانية",
+  "matches": "222 Mauritania MR الموريتانية",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1109,7 +1109,7 @@ let countrySet = [{
   "phoneCode": "230",
   "real-value": "Mauritius",
   "label": "Mauritius",
-  "matches": "Mauritius MU",
+  "matches": "230 Mauritius MU",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1117,7 +1117,7 @@ let countrySet = [{
   "phoneCode": "262",
   "real-value": "Mayotte",
   "label": "Mayotte",
-  "matches": "Mayotte YT",
+  "matches": "262 Mayotte YT",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1125,7 +1125,7 @@ let countrySet = [{
   "phoneCode": "52",
   "real-value": "Mexico",
   "label": "Mexico",
-  "matches": "Mexico MX Mexicanos",
+  "matches": "52 Mexico MX Mexicanos",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -1133,7 +1133,7 @@ let countrySet = [{
   "phoneCode": "691",
   "real-value": "Micronesia, Federated States of",
   "label": "Micronesia, Federated States of",
-  "matches": "Micronesia, Federated States of FM",
+  "matches": "691 Micronesia, Federated States of FM",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1141,7 +1141,7 @@ let countrySet = [{
   "phoneCode": "373",
   "real-value": "Moldova, Republic of",
   "label": "Moldova, Republic of",
-  "matches": "Moldova, Republic of MD",
+  "matches": "373 Moldova, Republic of MD",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1149,7 +1149,7 @@ let countrySet = [{
   "phoneCode": "377",
   "real-value": "Monaco",
   "label": "Monaco",
-  "matches": "Monaco MC",
+  "matches": "377 Monaco MC",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1157,7 +1157,7 @@ let countrySet = [{
   "phoneCode": "976",
   "real-value": "Mongolia",
   "label": "Mongolia",
-  "matches": "Mongolia MN Mongγol ulus Монгол улс",
+  "matches": "976 Mongolia MN Mongγol ulus Монгол улс",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1165,7 +1165,7 @@ let countrySet = [{
   "phoneCode": "382",
   "real-value": "Montenegro",
   "label": "Montenegro",
-  "matches": "Montenegro ME",
+  "matches": "382 Montenegro ME",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1173,7 +1173,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Montserrat",
   "label": "Montserrat",
-  "matches": "Montserrat MS",
+  "matches": "1 Montserrat MS",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1181,7 +1181,7 @@ let countrySet = [{
   "phoneCode": "212",
   "real-value": "Morocco",
   "label": "Morocco",
-  "matches": "Morocco MA المغرب",
+  "matches": "212 Morocco MA المغرب",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1189,7 +1189,7 @@ let countrySet = [{
   "phoneCode": "258",
   "real-value": "Mozambique",
   "label": "Mozambique",
-  "matches": "Mozambique MZ Moçambique",
+  "matches": "258 Mozambique MZ Moçambique",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1197,7 +1197,7 @@ let countrySet = [{
   "phoneCode": "95",
   "real-value": "Myanmar",
   "label": "Myanmar",
-  "matches": "Myanmar MM",
+  "matches": "95 Myanmar MM",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1205,7 +1205,7 @@ let countrySet = [{
   "phoneCode": "264",
   "real-value": "Namibia",
   "label": "Namibia",
-  "matches": "Namibia NA Namibië",
+  "matches": "264 Namibia NA Namibië",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1213,7 +1213,7 @@ let countrySet = [{
   "phoneCode": "674",
   "real-value": "Nauru",
   "label": "Nauru",
-  "matches": "Nauru NR Naoero",
+  "matches": "674 Nauru NR Naoero",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1221,7 +1221,7 @@ let countrySet = [{
   "phoneCode": "977",
   "real-value": "Nepal",
   "label": "Nepal",
-  "matches": "Nepal NP नेपाल",
+  "matches": "977 Nepal NP नेपाल",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1229,7 +1229,7 @@ let countrySet = [{
   "phoneCode": "31",
   "real-value": "Netherlands",
   "label": "Netherlands",
-  "matches": "Netherlands NL Holland Nederland",
+  "matches": "31 Netherlands NL Holland Nederland",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -1237,7 +1237,7 @@ let countrySet = [{
   "phoneCode": "687",
   "real-value": "New Caledonia",
   "label": "New Caledonia",
-  "matches": "New Caledonia NC",
+  "matches": "687 New Caledonia NC",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1245,7 +1245,7 @@ let countrySet = [{
   "phoneCode": "64",
   "real-value": "New Zealand",
   "label": "New Zealand",
-  "matches": "New Zealand NZ Aotearoa",
+  "matches": "64 New Zealand NZ Aotearoa",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1253,7 +1253,7 @@ let countrySet = [{
   "phoneCode": "505",
   "real-value": "Nicaragua",
   "label": "Nicaragua",
-  "matches": "Nicaragua NI",
+  "matches": "505 Nicaragua NI",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1261,7 +1261,7 @@ let countrySet = [{
   "phoneCode": "234",
   "real-value": "Niger",
   "label": "Niger",
-  "matches": "Niger NE Nijar",
+  "matches": "234 Niger NE Nijar",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1269,7 +1269,7 @@ let countrySet = [{
   "phoneCode": "234",
   "real-value": "Nigeria",
   "label": "Nigeria",
-  "matches": "Nigeria NG Nijeriya Naíjíríà",
+  "matches": "234 Nigeria NG Nijeriya Naíjíríà",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -1277,7 +1277,7 @@ let countrySet = [{
   "phoneCode": "683",
   "real-value": "Niue",
   "label": "Niue",
-  "matches": "Niue NU",
+  "matches": "683 Niue NU",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1285,7 +1285,7 @@ let countrySet = [{
   "phoneCode": "672",
   "real-value": "Norfolk Island",
   "label": "Norfolk Island",
-  "matches": "Norfolk Island NF",
+  "matches": "672 Norfolk Island NF",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1293,7 +1293,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Northern Mariana Islands",
   "label": "Northern Mariana Islands",
-  "matches": "Northern Mariana Islands MP",
+  "matches": "1 Northern Mariana Islands MP",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1301,7 +1301,7 @@ let countrySet = [{
   "phoneCode": "47",
   "real-value": "Norway",
   "label": "Norway",
-  "matches": "Norway NO Norge Noreg",
+  "matches": "47 Norway NO Norge Noreg",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -1309,7 +1309,7 @@ let countrySet = [{
   "phoneCode": "40",
   "real-value": "Oman",
   "label": "Oman",
-  "matches": "Oman OM عمان",
+  "matches": "40 Oman OM عمان",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1317,7 +1317,7 @@ let countrySet = [{
   "phoneCode": "92",
   "real-value": "Pakistan",
   "label": "Pakistan",
-  "matches": "Pakistan PK پاکستان",
+  "matches": "92 Pakistan PK پاکستان",
   "relevancy-score": 0,
   "relevancy-score-booster": 2
 }, {
@@ -1325,7 +1325,7 @@ let countrySet = [{
   "phoneCode": "680",
   "real-value": "Palau",
   "label": "Palau",
-  "matches": "Palau PW",
+  "matches": "680 Palau PW",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1333,7 +1333,7 @@ let countrySet = [{
   "phoneCode": "970",
   "real-value": "Palestinian Territory, Occupied",
   "label": "Palestinian Territory, Occupied",
-  "matches": "Palestinian Territory, Occupied PS فلسطين",
+  "matches": "970 Palestinian Territory, Occupied PS فلسطين",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1341,7 +1341,7 @@ let countrySet = [{
   "phoneCode": "507",
   "real-value": "Panama",
   "label": "Panama",
-  "matches": "Panama PA",
+  "matches": "507 Panama PA",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1349,7 +1349,7 @@ let countrySet = [{
   "phoneCode": "675",
   "real-value": "Papua New Guinea",
   "label": "Papua New Guinea",
-  "matches": "Papua New Guinea PG",
+  "matches": "675 Papua New Guinea PG",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1357,7 +1357,7 @@ let countrySet = [{
   "phoneCode": "595",
   "real-value": "Paraguay",
   "label": "Paraguay",
-  "matches": "Paraguay PY",
+  "matches": "595 Paraguay PY",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1365,7 +1365,7 @@ let countrySet = [{
   "phoneCode": "51",
   "real-value": "Peru",
   "label": "Peru",
-  "matches": "Peru PE",
+  "matches": "51 Peru PE",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1373,7 +1373,7 @@ let countrySet = [{
   "phoneCode": "63",
   "real-value": "Philippines",
   "label": "Philippines",
-  "matches": "Philippines PH Pilipinas",
+  "matches": "63 Philippines PH Pilipinas",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -1381,7 +1381,7 @@ let countrySet = [{
   "phoneCode": "870",
   "real-value": "Pitcairn",
   "label": "Pitcairn",
-  "matches": "Pitcairn PN",
+  "matches": "870 Pitcairn PN",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1389,7 +1389,7 @@ let countrySet = [{
   "phoneCode": "48",
   "real-value": "Poland",
   "label": "Poland",
-  "matches": "Poland PL Polska",
+  "matches": "48 Poland PL Polska",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.25
 }, {
@@ -1397,7 +1397,7 @@ let countrySet = [{
   "phoneCode": "351",
   "real-value": "Portugal",
   "label": "Portugal",
-  "matches": "Portugal PT Portuguesa",
+  "matches": "351 Portugal PT Portuguesa",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -1405,7 +1405,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Puerto Rico",
   "label": "Puerto Rico",
-  "matches": "Puerto Rico PR",
+  "matches": "1 Puerto Rico PR",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1413,7 +1413,7 @@ let countrySet = [{
   "phoneCode": "974",
   "real-value": "Qatar",
   "label": "Qatar",
-  "matches": "Qatar QA قطر",
+  "matches": "974 Qatar QA قطر",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1421,7 +1421,7 @@ let countrySet = [{
   "phoneCode": "40",
   "real-value": "Romania",
   "label": "Romania",
-  "matches": "Romania RO Rumania Roumania România",
+  "matches": "40 Romania RO Rumania Roumania România",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1429,7 +1429,7 @@ let countrySet = [{
   "phoneCode": "7",
   "real-value": "Russian Federation",
   "label": "Russian Federation",
-  "matches": "Russian Federation RU Rossiya Российская Россия",
+  "matches": "7 Russian Federation RU Rossiya Российская Россия",
   "relevancy-score": 0,
   "relevancy-score-booster": 2.5
 }, {
@@ -1437,7 +1437,7 @@ let countrySet = [{
   "phoneCode": "250",
   "real-value": "Rwanda",
   "label": "Rwanda",
-  "matches": "Rwanda RW",
+  "matches": "250 Rwanda RW",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1445,7 +1445,7 @@ let countrySet = [{
   "phoneCode": "262",
   "real-value": "Réunion",
   "label": "Réunion",
-  "matches": "Réunion RE Reunion",
+  "matches": "262 Réunion RE Reunion",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1453,7 +1453,7 @@ let countrySet = [{
   "phoneCode": "590",
   "real-value": "Saint Barthélemy",
   "label": "Saint Barthélemy",
-  "matches": "Saint Barthélemy BL St. Barthelemy",
+  "matches": "590 Saint Barthélemy BL St. Barthelemy",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1461,7 +1461,7 @@ let countrySet = [{
   "phoneCode": "290",
   "real-value": "Saint Helena",
   "label": "Saint Helena",
-  "matches": "Saint Helena SH St.",
+  "matches": "290 Saint Helena SH St.",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1469,7 +1469,7 @@ let countrySet = [{
   "phoneCode": "869",
   "real-value": "Saint Kitts and Nevis",
   "label": "Saint Kitts and Nevis",
-  "matches": "Saint Kitts and Nevis KN St.",
+  "matches": "869 Saint Kitts and Nevis KN St.",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1477,7 +1477,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Saint Lucia",
   "label": "Saint Lucia",
-  "matches": "Saint Lucia LC St.",
+  "matches": "1 Saint Lucia LC St.",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1485,7 +1485,7 @@ let countrySet = [{
   "phoneCode": "590",
   "real-value": "Saint Martin (French Part)",
   "label": "Saint Martin (French Part)",
-  "matches": "Saint Martin (French Part) MF St.",
+  "matches": "590 Saint Martin (French Part) MF St.",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1493,7 +1493,7 @@ let countrySet = [{
   "phoneCode": "508",
   "real-value": "Saint Pierre and Miquelon",
   "label": "Saint Pierre and Miquelon",
-  "matches": "Saint Pierre and Miquelon PM St.",
+  "matches": "508 Saint Pierre and Miquelon PM St.",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1501,7 +1501,7 @@ let countrySet = [{
   "phoneCode": "784",
   "real-value": "Saint Vincent and the Grenadines",
   "label": "Saint Vincent and the Grenadines",
-  "matches": "Saint Vincent and the Grenadines VC St.",
+  "matches": "784 Saint Vincent and the Grenadines VC St.",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1509,7 +1509,7 @@ let countrySet = [{
   "phoneCode": "685",
   "real-value": "Samoa",
   "label": "Samoa",
-  "matches": "Samoa WS",
+  "matches": "685 Samoa WS",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1517,7 +1517,7 @@ let countrySet = [{
   "phoneCode": "378",
   "real-value": "San Marino",
   "label": "San Marino",
-  "matches": "San Marino SM RSM Repubblica",
+  "matches": "378 San Marino SM RSM Repubblica",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1525,7 +1525,7 @@ let countrySet = [{
   "phoneCode": "239",
   "real-value": "Sao Tome and Principe",
   "label": "Sao Tome and Principe",
-  "matches": "Sao Tome and Principe ST",
+  "matches": "239 Sao Tome and Principe ST",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1533,7 +1533,7 @@ let countrySet = [{
   "phoneCode": "966",
   "real-value": "Saudi Arabia",
   "label": "Saudi Arabia",
-  "matches": "Saudi Arabia SA السعودية",
+  "matches": "966 Saudi Arabia SA السعودية",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1541,7 +1541,7 @@ let countrySet = [{
   "phoneCode": "221",
   "real-value": "Senegal",
   "label": "Senegal",
-  "matches": "Senegal SN Sénégal",
+  "matches": "221 Senegal SN Sénégal",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1549,7 +1549,7 @@ let countrySet = [{
   "phoneCode": "381",
   "real-value": "Serbia",
   "label": "Serbia",
-  "matches": "Serbia RS Србија Srbija",
+  "matches": "381 Serbia RS Србија Srbija",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1557,7 +1557,7 @@ let countrySet = [{
   "phoneCode": "248",
   "real-value": "Seychelles",
   "label": "Seychelles",
-  "matches": "Seychelles SC",
+  "matches": "248 Seychelles SC",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1565,7 +1565,7 @@ let countrySet = [{
   "phoneCode": "232",
   "real-value": "Sierra Leone",
   "label": "Sierra Leone",
-  "matches": "Sierra Leone SL",
+  "matches": "232 Sierra Leone SL",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1573,7 +1573,7 @@ let countrySet = [{
   "phoneCode": "65",
   "real-value": "Singapore",
   "label": "Singapore",
-  "matches": "Singapore SG Singapura  சிங்கப்பூர் குடியரசு 新加坡共和国",
+  "matches": "65 Singapore SG Singapura  சிங்கப்பூர் குடியரசு 新加坡共和国",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1581,7 +1581,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Sint Maarten (Dutch Part)",
   "label": "Sint Maarten (Dutch Part)",
-  "matches": "Sint Maarten (Dutch Part) SX",
+  "matches": "1 Sint Maarten (Dutch Part) SX",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1589,7 +1589,7 @@ let countrySet = [{
   "phoneCode": "421",
   "real-value": "Slovakia",
   "label": "Slovakia",
-  "matches": "Slovakia SK Slovenská Slovensko",
+  "matches": "421 Slovakia SK Slovenská Slovensko",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1597,7 +1597,7 @@ let countrySet = [{
   "phoneCode": "386",
   "real-value": "Slovenia",
   "label": "Slovenia",
-  "matches": "Slovenia SI Slovenija",
+  "matches": "386 Slovenia SI Slovenija",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1605,7 +1605,7 @@ let countrySet = [{
   "phoneCode": "677",
   "real-value": "Solomon Islands",
   "label": "Solomon Islands",
-  "matches": "Solomon Islands SB",
+  "matches": "677 Solomon Islands SB",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1613,7 +1613,7 @@ let countrySet = [{
   "phoneCode": "252",
   "real-value": "Somalia",
   "label": "Somalia",
-  "matches": "Somalia SO الصومال",
+  "matches": "252 Somalia SO الصومال",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1621,7 +1621,7 @@ let countrySet = [{
   "phoneCode": "27",
   "real-value": "South Africa",
   "label": "South Africa",
-  "matches": "South Africa ZA RSA Suid-Afrika",
+  "matches": "27 South Africa ZA RSA Suid-Afrika",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1629,7 +1629,7 @@ let countrySet = [{
   "phoneCode": "500",
   "real-value": "South Georgia and the South Sandwich Islands",
   "label": "South Georgia and the South Sandwich Islands",
-  "matches": "South Georgia and the South Sandwich Islands GS",
+  "matches": "500 South Georgia and the South Sandwich Islands GS",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1637,7 +1637,7 @@ let countrySet = [{
   "phoneCode": "211",
   "real-value": "South Sudan",
   "label": "South Sudan",
-  "matches": "South Sudan SS",
+  "matches": "211 South Sudan SS",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1645,7 +1645,7 @@ let countrySet = [{
   "phoneCode": "34",
   "real-value": "Spain",
   "label": "Spain",
-  "matches": "Spain ES España",
+  "matches": "34 Spain ES España",
   "relevancy-score": 0,
   "relevancy-score-booster": 2
 }, {
@@ -1653,7 +1653,7 @@ let countrySet = [{
   "phoneCode": "94",
   "real-value": "Sri Lanka",
   "label": "Sri Lanka",
-  "matches": "Sri Lanka LK ශ්‍රී ලංකා இலங்கை Ceylon",
+  "matches": "94 Sri Lanka LK ශ්‍රී ලංකා இலங்கை Ceylon",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1661,7 +1661,7 @@ let countrySet = [{
   "phoneCode": "249",
   "real-value": "Sudan",
   "label": "Sudan",
-  "matches": "Sudan SD السودان",
+  "matches": "249 Sudan SD السودان",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1669,7 +1669,7 @@ let countrySet = [{
   "phoneCode": "597",
   "real-value": "Suriname",
   "label": "Suriname",
-  "matches": "Suriname SR शर्नम् Sarnam Sranangron",
+  "matches": "597 Suriname SR शर्नम् Sarnam Sranangron",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1677,7 +1677,7 @@ let countrySet = [{
   "phoneCode": "47",
   "real-value": "Svalbard and Jan Mayen",
   "label": "Svalbard and Jan Mayen",
-  "matches": "Svalbard and Jan Mayen SJ",
+  "matches": "47 Svalbard and Jan Mayen SJ",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1685,7 +1685,7 @@ let countrySet = [{
   "phoneCode": "268",
   "real-value": "Swaziland",
   "label": "Swaziland",
-  "matches": "Swaziland SZ weSwatini Swatini Ngwane",
+  "matches": "268 Swaziland SZ weSwatini Swatini Ngwane",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1693,7 +1693,7 @@ let countrySet = [{
   "phoneCode": "46",
   "real-value": "Sweden",
   "label": "Sweden",
-  "matches": "Sweden SE Sverige",
+  "matches": "46 Sweden SE Sverige",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -1701,7 +1701,7 @@ let countrySet = [{
   "phoneCode": "41",
   "real-value": "Switzerland",
   "label": "Switzerland",
-  "matches": "Switzerland CH Swiss Confederation Schweiz Suisse Svizzera Svizra",
+  "matches": "41 Switzerland CH Swiss Confederation Schweiz Suisse Svizzera Svizra",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -1709,7 +1709,7 @@ let countrySet = [{
   "phoneCode": "963",
   "real-value": "Syrian Arab Republic",
   "label": "Syrian Arab Republic",
-  "matches": "Syrian Arab Republic SY Syria سورية",
+  "matches": "963 Syrian Arab Republic SY Syria سورية",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1717,7 +1717,7 @@ let countrySet = [{
   "phoneCode": "886",
   "real-value": "Taiwan, Province of China",
   "label": "Taiwan, Province of China",
-  "matches": "Taiwan, Province of China TW 台灣 臺灣",
+  "matches": "886 Taiwan, Province of China TW 台灣 臺灣",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1725,7 +1725,7 @@ let countrySet = [{
   "phoneCode": "992",
   "real-value": "Tajikistan",
   "label": "Tajikistan",
-  "matches": "Tajikistan TJ Тоҷикистон Toçikiston",
+  "matches": "992 Tajikistan TJ Тоҷикистон Toçikiston",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1733,7 +1733,7 @@ let countrySet = [{
   "phoneCode": "255",
   "real-value": "Tanzania, United Republic of",
   "label": "Tanzania, United Republic of",
-  "matches": "Tanzania, United Republic of TZ",
+  "matches": "255 Tanzania, United Republic of TZ",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1741,7 +1741,7 @@ let countrySet = [{
   "phoneCode": "66",
   "real-value": "Thailand",
   "label": "Thailand",
-  "matches": "Thailand TH ประเทศไทย Prathet Thai",
+  "matches": "66 Thailand TH ประเทศไทย Prathet Thai",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1749,7 +1749,7 @@ let countrySet = [{
   "phoneCode": "670",
   "real-value": "Timor-Leste",
   "label": "Timor-Leste",
-  "matches": "Timor-Leste TL",
+  "matches": "670 Timor-Leste TL",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1757,7 +1757,7 @@ let countrySet = [{
   "phoneCode": "228",
   "real-value": "Togo",
   "label": "Togo",
-  "matches": "Togo TG Togolese",
+  "matches": "228 Togo TG Togolese",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1765,7 +1765,7 @@ let countrySet = [{
   "phoneCode": "690",
   "real-value": "Tokelau",
   "label": "Tokelau",
-  "matches": "Tokelau TK",
+  "matches": "690 Tokelau TK",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1773,7 +1773,7 @@ let countrySet = [{
   "phoneCode": "676",
   "real-value": "Tonga",
   "label": "Tonga",
-  "matches": "Tonga TO",
+  "matches": "676 Tonga TO",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1781,7 +1781,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Trinidad and Tobago",
   "label": "Trinidad and Tobago",
-  "matches": "Trinidad and Tobago TT",
+  "matches": "1 Trinidad and Tobago TT",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1789,7 +1789,7 @@ let countrySet = [{
   "phoneCode": "216",
   "real-value": "Tunisia",
   "label": "Tunisia",
-  "matches": "Tunisia TN تونس",
+  "matches": "216 Tunisia TN تونس",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1797,7 +1797,7 @@ let countrySet = [{
   "phoneCode": "90",
   "real-value": "Turkey",
   "label": "Turkey",
-  "matches": "Turkey TR Türkiye Turkiye",
+  "matches": "90 Turkey TR Türkiye Turkiye",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1805,7 +1805,7 @@ let countrySet = [{
   "phoneCode": "993",
   "real-value": "Turkmenistan",
   "label": "Turkmenistan",
-  "matches": "Turkmenistan TM Türkmenistan",
+  "matches": "993 Turkmenistan TM Türkmenistan",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1813,7 +1813,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Turks and Caicos Islands",
   "label": "Turks and Caicos Islands",
-  "matches": "Turks and Caicos Islands TC",
+  "matches": "1 Turks and Caicos Islands TC",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1821,7 +1821,7 @@ let countrySet = [{
   "phoneCode": "688",
   "real-value": "Tuvalu",
   "label": "Tuvalu",
-  "matches": "Tuvalu TV",
+  "matches": "688 Tuvalu TV",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1829,7 +1829,7 @@ let countrySet = [{
   "phoneCode": "256",
   "real-value": "Uganda",
   "label": "Uganda",
-  "matches": "Uganda UG",
+  "matches": "256 Uganda UG",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1837,7 +1837,7 @@ let countrySet = [{
   "phoneCode": "380",
   "real-value": "Ukraine",
   "label": "Ukraine",
-  "matches": "Ukraine UA Ukrayina Україна",
+  "matches": "380 Ukraine UA Ukrayina Україна",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1845,7 +1845,7 @@ let countrySet = [{
   "phoneCode": "971",
   "real-value": "United Arab Emirates",
   "label": "United Arab Emirates",
-  "matches": "United Arab Emirates AE UAE الإمارات",
+  "matches": "971 United Arab Emirates AE UAE الإمارات",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1853,7 +1853,7 @@ let countrySet = [{
   "phoneCode": "44",
   "real-value": "United Kingdom",
   "label": "United Kingdom",
-  "matches": "United Kingdom GB Great Britain England UK Wales Scotland Northern Ireland",
+  "matches": "44 United Kingdom GB Great Britain England UK Wales Scotland Northern Ireland",
   "relevancy-score": 0,
   "relevancy-score-booster": 2.5
 }, {
@@ -1861,7 +1861,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "United States",
   "label": "United States",
-  "matches": "United States US USA United States of America",
+  "matches": "1 United States US USA United States of America",
   "relevancy-score": 0,
   "relevancy-score-booster": 3.5
 }, {
@@ -1869,7 +1869,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "United States Minor Outlying Islands",
   "label": "United States Minor Outlying Islands",
-  "matches": "United States Minor Outlying Islands UM",
+  "matches": "1 United States Minor Outlying Islands UM",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1877,7 +1877,7 @@ let countrySet = [{
   "phoneCode": "598",
   "real-value": "Uruguay",
   "label": "Uruguay",
-  "matches": "Uruguay UY",
+  "matches": "598 Uruguay UY",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1885,7 +1885,7 @@ let countrySet = [{
   "phoneCode": "998",
   "real-value": "Uzbekistan",
   "label": "Uzbekistan",
-  "matches": "Uzbekistan UZ Ўзбекистон O'zbekstan O‘zbekiston",
+  "matches": "998 Uzbekistan UZ Ўзбекистон O'zbekstan O‘zbekiston",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1893,7 +1893,7 @@ let countrySet = [{
   "phoneCode": "678",
   "real-value": "Vanuatu",
   "label": "Vanuatu",
-  "matches": "Vanuatu VU",
+  "matches": "678 Vanuatu VU",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1901,7 +1901,7 @@ let countrySet = [{
   "phoneCode": "58",
   "real-value": "Venezuela",
   "label": "Venezuela",
-  "matches": "Venezuela VE",
+  "matches": "58 Venezuela VE",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1909,7 +1909,7 @@ let countrySet = [{
   "phoneCode": "84",
   "real-value": "Vietnam",
   "label": "Vietnam",
-  "matches": "Vietnam VN Việt Nam",
+  "matches": "84 Vietnam VN Việt Nam",
   "relevancy-score": 0,
   "relevancy-score-booster": 1.5
 }, {
@@ -1917,7 +1917,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Virgin Islands, British",
   "label": "Virgin Islands, British",
-  "matches": "Virgin Islands, British VG",
+  "matches": "1 Virgin Islands, British VG",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1925,7 +1925,7 @@ let countrySet = [{
   "phoneCode": "1",
   "real-value": "Virgin Islands, U.S.",
   "label": "Virgin Islands, U.S.",
-  "matches": "Virgin Islands, U.S. VI",
+  "matches": "1 Virgin Islands, U.S. VI",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1933,7 +1933,7 @@ let countrySet = [{
   "phoneCode": "681",
   "real-value": "Wallis and Futuna",
   "label": "Wallis and Futuna",
-  "matches": "Wallis and Futuna WF",
+  "matches": "681 Wallis and Futuna WF",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }, {
@@ -1941,7 +1941,7 @@ let countrySet = [{
   "phoneCode": "212",
   "real-value": "Western Sahara",
   "label": "Western Sahara",
-  "matches": "Western Sahara EH لصحراء الغربية",
+  "matches": "212 Western Sahara EH لصحراء الغربية",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1949,7 +1949,7 @@ let countrySet = [{
   "phoneCode": "967",
   "real-value": "Yemen",
   "label": "Yemen",
-  "matches": "Yemen YE اليمن",
+  "matches": "967 Yemen YE اليمن",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1957,7 +1957,7 @@ let countrySet = [{
   "phoneCode": "260",
   "real-value": "Zambia",
   "label": "Zambia",
-  "matches": "Zambia ZM",
+  "matches": "260 Zambia ZM",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1965,7 +1965,7 @@ let countrySet = [{
   "phoneCode": "263",
   "real-value": "Zimbabwe",
   "label": "Zimbabwe",
-  "matches": "Zimbabwe ZW",
+  "matches": "263 Zimbabwe ZW",
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
@@ -1973,7 +1973,7 @@ let countrySet = [{
   "phoneCode": "358",
   "real-value": "Åland Islands",
   "label": "Åland Islands",
-  "matches": "Åland Islands AX Aaland Aland",
+  "matches": "358 Åland Islands AX Aaland Aland",
   "relevancy-score": 0,
   "relevancy-score-booster": 0.5
 }];
@@ -1988,7 +1988,7 @@ export default Ember.Service.extend({
       let matchExists = false;
       let possibleMatches = country.matches.split(" ");
       possibleMatches.forEach((match) => {
-        if(match.toLowerCase().indexOf(fuzzyName.toLowerCase()) > -1) return matchExists = true;
+        if (match.toLowerCase().indexOf(fuzzyName.toLowerCase()) > -1) return matchExists = true;
       });
       return matchExists;
     });
@@ -2004,21 +2004,21 @@ export default Ember.Service.extend({
   getISOCodeForCountry: function(name, uppercase) {
     let result = null;
     let fuzzyMatch = this.getCountryByFuzzyName(name);
-    if(!fuzzyMatch) return;
+    if (!fuzzyMatch) return;
 
     fuzzyMatch = fuzzyMatch.objectAt(0);
     result = fuzzyMatch.code;
 
-    if(uppercase) {
+    if (uppercase) {
       result = result.toUpperCase();
     }
-    
+
     return result;
   },
   getDiallingCodeForCountry: function(name) {
     let result = null;
     let fuzzyMatch = this.getCountryByFuzzyName(name);
-    if(!fuzzyMatch) return;
+    if (!fuzzyMatch) return;
 
     fuzzyMatch = fuzzyMatch.objectAt(0);
     result = fuzzyMatch.phoneCode;
