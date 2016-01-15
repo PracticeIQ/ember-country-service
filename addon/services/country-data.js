@@ -52,6 +52,9 @@ export default Ember.Service.extend({
     let matchingCountry = this.get("countries").filter((country) => {
       return country.code === isoCode.toLowerCase();
     });
+    if (Ember.isArray(matchingCountry) && matchingCountry.length ===0) {
+      return null;
+    }
     if (Ember.isArray(matchingCountry)) return matchingCountry.objectAt(0)["real-value"];
     return matchingCountry["real-value"];
   }
