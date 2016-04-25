@@ -1,4 +1,4 @@
-export function initialize(container, application) {
+export function initialize(application) {
   application.inject('route', 'country-data', 'service:country-data');
   application.inject('router:main', 'country-data', 'service:country-data');
   application.inject('controller', 'country-data', 'service:country-data');
