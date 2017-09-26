@@ -344,10 +344,10 @@ export default [{
   "relevancy-score-booster": 1
 }, {
   "code": "tw",
-  "phoneCode": "886",
+  "phoneCode": "86",
   "real-value": "China",
   "label": "China",
-  "matches": "886 China CN Zhongguo Zhonghua Peoples Republic 中国/中华",
+  "matches": "86 China CN Zhongguo Zhonghua Peoples Republic 中国/中华",
   "relevancy-score": 0,
   "relevancy-score-booster": 3.5
 }, {
