@@ -343,7 +343,7 @@ export default [{
   "relevancy-score": 0,
   "relevancy-score-booster": 1
 }, {
-  "code": "tw",
+  "code": "cn",
   "phoneCode": "86",
   "real-value": "China",
   "label": "China",
